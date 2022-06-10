@@ -1,3 +1,3 @@
 # TestVagrantAssignmentSolution
-javac Main.java
+javac Main.java<br/>
 java Main
